@@ -202,14 +202,6 @@ Este programa é um excelente exemplo para o aprendizado de integração Sprint 
 
 Qualquer melhoria e correções serão bem vindas, entre em contato.
 
-# Contato:
-
-[![imagem linkedin](src/main/java/br/com/mpb/literalura/assets/linkedin_small.png)](https://www.linkedin.com/in/mpbmarcio-dev/)
-
-# Contribuidores:
-
-[![imagem git](src/main/java/br/com/mpb/literalura/assets/github_small.png)](https://github.com/mpbmarcio/)
-
 # Agradecimentos Especiais:
 
 [![imagem alura](src/main/java/br/com/mpb/literalura/assets/alura.jpg)](https://www.alura.com.br/)
